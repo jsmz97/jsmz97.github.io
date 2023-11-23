@@ -56,8 +56,8 @@ params:
           imageHeight: 160
           imageTitle: Shaoming Zhang
           buttons:
-            - name: Papers
-              url: papers/
+            #- name: Papers
+            #  url: papers/
             #- name: Courses
             #  url: courses/
             #- name: Data
@@ -66,8 +66,8 @@ params:
               url: https://jsmz.substack.com
             #- name: Tags
             #  url: tags/
-            - name: Archive
-              url: archive/
+            #- name: Archive
+            #  url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
