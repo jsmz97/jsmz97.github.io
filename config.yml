@@ -51,7 +51,7 @@ params:
           enabled: true
           title: J. Shaoming Zhang
           subtitle: "I am a physics student specialized in computational materials science."
-          imageUrl: "./picture.jpeg"
+          imageUrl: "./picture.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Shaoming Zhang
