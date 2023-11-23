@@ -1,4 +1,4 @@
-baseURL: "https://jsmz97.github.io/" 
+baseURL: "https://jsmz97.github.io" 
 title: J. Shaoming Zhang
 paginate: 20
 theme: PaperMod
@@ -63,7 +63,7 @@ params:
             #- name: Data
             #  url: data/
             - name: Newsletter
-              url: https://pmichaillat.substack.com
+              url: https://jsmz.substack.com
             #- name: Tags
             #  url: tags/
             #- name: Archive
